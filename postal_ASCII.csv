@@ -1,0 +1,474 @@
+CodigoPostal,Provincia,Canton,Distrito
+10101,San Jose,San Jose,Carmen
+10102,San Jose,San Jose,Merced
+10103,San Jose,San Jose,Hospital
+10104,San Jose,San Jose,Catedral
+10105,San Jose,San Jose,Zapote
+10106,San Jose,San Jose,San Francisco de Dos Rios
+10107,San Jose,San Jose,Uruca
+10108,San Jose,San Jose,Mata Redonda
+10109,San Jose,San Jose,Pavas
+10110,San Jose,San Jose,Hatillo
+10111,San Jose,San Jose,San Sebastian
+10201,San Jose,Escazu,Escazu
+10202,San Jose,Escazu,San Antonio
+10203,San Jose,Escazu,San Rafael
+10301,San Jose,Desamparados,Desamparados
+10302,San Jose,Desamparados,San Miguel
+10303,San Jose,Desamparados,San Juan de Dios
+10304,San Jose,Desamparados,San Rafael Arriba
+10305,San Jose,Desamparados,San Antonio
+10306,San Jose,Desamparados,Frailes
+10307,San Jose,Desamparados,Patarra
+10308,San Jose,Desamparados,San Cristobal
+10309,San Jose,Desamparados,Rosario
+10310,San Jose,Desamparados,Damas
+10311,San Jose,Desamparados,San Rafael Abajo
+10312,San Jose,Desamparados,Gravilias
+10313,San Jose,Desamparados,Los Guido
+10401,San Jose,Puriscal,Santiago
+10402,San Jose,Puriscal,Mercedes Sur
+10403,San Jose,Puriscal,Barbacoas
+10404,San Jose,Puriscal,Grifo Alto
+10405,San Jose,Puriscal,San Rafael
+10406,San Jose,Puriscal,Candelaria
+10407,San Jose,Puriscal,Desamparaditos
+10408,San Jose,Puriscal,San Antonio
+10409,San Jose,Puriscal,Chires
+10501,San Jose,Tarrazu,San Marcos
+10502,San Jose,Tarrazu,San Lorenzo
+10503,San Jose,Tarrazu,San Carlos
+10601,San Jose,Aserri,Aserri
+10602,San Jose,Aserri,Tarbaca
+10603,San Jose,Aserri,Vuelta de Jorco
+10604,San Jose,Aserri,San Gabriel
+10605,San Jose,Aserri,Legua
+10606,San Jose,Aserri,Monterrey
+10607,San Jose,Aserri,Salitrillos
+10701,San Jose,Mora,Colon
+10702,San Jose,Mora,Guayabo
+10703,San Jose,Mora,Tabarcia
+10704,San Jose,Mora,Piedras Negras
+10705,San Jose,Mora,Picagres
+10801,San Jose,Goicoechea,Guadalupe
+10802,San Jose,Goicoechea,San Francisco
+10803,San Jose,Goicoechea,Calle Blancos
+10804,San Jose,Goicoechea,Mata de Platano
+10805,San Jose,Goicoechea,Ipis
+10806,San Jose,Goicoechea,Rancho Redondo
+10807,San Jose,Goicoechea,Purral
+10901,San Jose,Santa Ana,Santa Ana
+10902,San Jose,Santa Ana,Salitral
+10903,San Jose,Santa Ana,Pozos
+10904,San Jose,Santa Ana,Uruca
+10905,San Jose,Santa Ana,Piedades
+10906,San Jose,Santa Ana,Brasil
+11001,San Jose,Alajuelita,Alajuelita
+11002,San Jose,Alajuelita,San Josecito
+11003,San Jose,Alajuelita,San Antonio
+11004,San Jose,Alajuelita,Concepcion
+11005,San Jose,Alajuelita,San Felipe
+11101,San Jose,Vazquez de Coronado,San Isidro
+11102,San Jose,Vazquez de Coronado,San Rafael
+11103,San Jose,Vazquez de Coronado,Dulce Nombre de Jesus
+11104,San Jose,Vazquez de Coronado,Patalillo
+11105,San Jose,Vazquez de Coronado,Cascajal
+11201,San Jose,Acosta,San Ignacio de Acosta
+11202,San Jose,Acosta,Guaitil
+11203,San Jose,Acosta,Palmichal
+11204,San Jose,Acosta,Cangrejal
+11205,San Jose,Acosta,Sabanillas
+11301,San Jose,Tibas,San Juan
+11302,San Jose,Tibas,Cinco esquinas
+11303,San Jose,Tibas,Anselmo Llorente
+11304,San Jose,Tibas,Leon XIII
+11305,San Jose,Tibas,Colima
+11401,San Jose,Moravia,San Vicente
+11402,San Jose,Moravia,San Jeronimo
+11403,San Jose,Moravia,Trinidad
+11501,San Jose,Montes de Oca,San Pedro
+11502,San Jose,Montes de Oca,Sabanilla
+11503,San Jose,Montes de Oca,Mercedes
+11504,San Jose,Montes de Oca,San Rafael
+11601,San Jose,Turrubares,San Pablo
+11602,San Jose,Turrubares,San Pedro
+11603,San Jose,Turrubares,San Juan de Mata
+11604,San Jose,Turrubares,San Luis
+11605,San Jose,Turrubares,Carara
+11701,San Jose,Dota,Santa Maria
+11702,San Jose,Dota,Jardin
+11703,San Jose,Dota,Copey
+11801,San Jose,Curridabat,Curridabat
+11802,San Jose,Curridabat,Granadilla
+11803,San Jose,Curridabat,Sanchez
+11804,San Jose,Curridabat,Tirrases
+11901,San Jose,Perez Zeledon,San Isidro del General
+11902,San Jose,Perez Zeledon,General
+11903,San Jose,Perez Zeledon,Daniel Flores
+11904,San Jose,Perez Zeledon,Rivas
+11905,San Jose,Perez Zeledon,San Pedro
+11906,San Jose,Perez Zeledon,Platanares
+11907,San Jose,Perez Zeledon,Pejibaye
+11908,San Jose,Perez Zeledon,Cajon
+11909,San Jose,Perez Zeledon,Baru
+11910,San Jose,Perez Zeledon,Rio Nuevo
+11911,San Jose,Perez Zeledon,Paramo
+12001,San Jose,Leon Cortes,San Pablo
+12002,San Jose,Leon Cortes,San Andres
+12003,San Jose,Leon Cortes,Llano Bonito
+12004,San Jose,Leon Cortes,San Isidro
+12005,San Jose,Leon Cortes,Santa Cruz
+12006,San Jose,Leon Cortes,San Antonio
+20101,Alajuela,Alajuela,Alajuela
+20102,Alajuela,Alajuela,San Jose
+20103,Alajuela,Alajuela,Carrizal
+20104,Alajuela,Alajuela,San Antonio
+20105,Alajuela,Alajuela,Guacima
+20106,Alajuela,Alajuela,San Isidro
+20107,Alajuela,Alajuela,Sabanilla
+20108,Alajuela,Alajuela,San Rafael
+20109,Alajuela,Alajuela,Rio Segundo
+20110,Alajuela,Alajuela,Desamparados
+20111,Alajuela,Alajuela,Turrucares
+20112,Alajuela,Alajuela,Tambor
+20113,Alajuela,Alajuela,Garita
+20114,Alajuela,Alajuela,Sarapiqui
+20201,Alajuela,San Ramon,San Ramon
+20202,Alajuela,San Ramon,Santiago
+20203,Alajuela,San Ramon,San Juan
+20204,Alajuela,San Ramon,Piedades Norte
+20205,Alajuela,San Ramon,Piedades Sur
+20206,Alajuela,San Ramon,San Rafael
+20207,Alajuela,San Ramon,San Isidro
+20208,Alajuela,San Ramon,angeles
+20209,Alajuela,San Ramon,Alfaro
+20210,Alajuela,San Ramon,Volio
+20211,Alajuela,San Ramon,Concepcion
+20212,Alajuela,San Ramon,Zapotal
+20213,Alajuela,San Ramon,Penas Blancas
+20301,Alajuela,Grecia,Grecia
+20302,Alajuela,Grecia,San Isidro
+20303,Alajuela,Grecia,San Jose
+20304,Alajuela,Grecia,San Roque
+20305,Alajuela,Grecia,Tacares
+20306,Alajuela,Grecia,Rio Cuarto
+20307,Alajuela,Grecia,Puente de Piedra
+20308,Alajuela,Grecia,Bolivar
+20401,Alajuela,San Mateo,San Mateo
+20402,Alajuela,San Mateo,Desmonte
+20403,Alajuela,San Mateo,Jesus Maria
+20501,Alajuela,Atenas,Atenas
+20502,Alajuela,Atenas,Jesus
+20503,Alajuela,Atenas,Mercedes
+20504,Alajuela,Atenas,San Isidro
+20505,Alajuela,Atenas,Concepcion
+20506,Alajuela,Atenas,San Jose
+20507,Alajuela,Atenas,Santa Eulalia
+20508,Alajuela,Atenas,Escobal
+20601,Alajuela,Naranjo,Naranjo
+20602,Alajuela,Naranjo,San Miguel
+20603,Alajuela,Naranjo,San Jose
+20604,Alajuela,Naranjo,Cirri Sur
+20605,Alajuela,Naranjo,San Jeronimo
+20606,Alajuela,Naranjo,San Juan
+20607,Alajuela,Naranjo,Rosario
+20608,Alajuela,Naranjo,Palmitos
+20701,Alajuela,Palmares,Palmares
+20702,Alajuela,Palmares,Zaragoza
+20703,Alajuela,Palmares,Buenos Aires
+20704,Alajuela,Palmares,Santiago
+20705,Alajuela,Palmares,Candelaria
+20706,Alajuela,Palmares,Esquipulas
+20707,Alajuela,Palmares,Granja
+20801,Alajuela,Poas,San Pedro
+20802,Alajuela,Poas,San Juan
+20803,Alajuela,Poas,San Rafael
+20804,Alajuela,Poas,Carrillos
+20805,Alajuela,Poas,Sabana Redonda
+20901,Alajuela,Orotina,Orotina
+20902,Alajuela,Orotina,Mastate
+20903,Alajuela,Orotina,Hacienda Vieja
+20904,Alajuela,Orotina,Coyolar
+20905,Alajuela,Orotina,Ceiba
+21001,Alajuela,San Carlos,Quesada
+21002,Alajuela,San Carlos,Florencia
+21003,Alajuela,San Carlos,Buenavista
+21004,Alajuela,San Carlos,Aguas Zarcas
+21005,Alajuela,San Carlos,Venecia
+21006,Alajuela,San Carlos,Pital
+21007,Alajuela,San Carlos,Fortuna
+21008,Alajuela,San Carlos,Tigra
+21009,Alajuela,San Carlos,Palmera
+21010,Alajuela,San Carlos,Venado
+21011,Alajuela,San Carlos,Cutris
+21012,Alajuela,San Carlos,Monterrey
+21013,Alajuela,San Carlos,Pocosol
+21101,Alajuela,Alfaro Ruiz,Zarcero
+21102,Alajuela,Alfaro Ruiz,Laguna
+21103,Alajuela,Alfaro Ruiz,Tapezco
+21104,Alajuela,Alfaro Ruiz,Guadalupe
+21105,Alajuela,Alfaro Ruiz,Palmira
+21106,Alajuela,Alfaro Ruiz,Zapote
+21107,Alajuela,Alfaro Ruiz,Brisas
+21201,Alajuela,Valverde Vega,Sarchi Norte
+21202,Alajuela,Valverde Vega,Sarchi Sur
+21203,Alajuela,Valverde Vega,Toro Amarillo
+21204,Alajuela,Valverde Vega,San Pedro
+21205,Alajuela,Valverde Vega,Rodriguez
+21301,Alajuela,Upala,Upala
+21302,Alajuela,Upala,Aguas Claras
+21303,Alajuela,Upala,San Jose (Pizote)
+21304,Alajuela,Upala,Bijagua
+21305,Alajuela,Upala,Delicias
+21306,Alajuela,Upala,Dos Rios
+21307,Alajuela,Upala,Yoliyllal
+21401,Alajuela,Los Chiles,Los Chiles
+21402,Alajuela,Los Chiles,Cano Negro
+21403,Alajuela,Los Chiles,El Amparo
+21404,Alajuela,Los Chiles,San Jorge
+21501,Alajuela,Guatuso,San Rafael
+21502,Alajuela,Guatuso,Buenavista
+21503,Alajuela,Guatuso,Cote
+21504,Alajuela,Guatuso,Katira
+30101,Cartago,Cartago,Oriental
+30102,Cartago,Cartago,Occidental
+30103,Cartago,Cartago,Carmen
+30104,Cartago,Cartago,San Nicolas
+30105,Cartago,Cartago,Aguacaliente (San Francisco)
+30106,Cartago,Cartago,Guadalupe (Arenilla)
+30107,Cartago,Cartago,Corralillo
+30108,Cartago,Cartago,Tierra Blanca
+30109,Cartago,Cartago,Dulce Nombre
+30110,Cartago,Cartago,Llano Grande
+30111,Cartago,Cartago,Quebradilla
+30201,Cartago,Paraiso,Paraiso
+30202,Cartago,Paraiso,Santiago
+30203,Cartago,Paraiso,Orosi
+30204,Cartago,Paraiso,Cachi
+30205,Cartago,Paraiso,Llanos de Santa Lucia
+30301,Cartago,La Union,Tres Rios
+30302,Cartago,La Union,San Diego
+30303,Cartago,La Union,San Juan
+30304,Cartago,La Union,San Rafael
+30305,Cartago,La Union,Concepcion
+30306,Cartago,La Union,Dulce Nombre
+30307,Cartago,La Union,San Ramon
+30308,Cartago,La Union,Rio Azul
+30401,Cartago,Jimenez,Juan Vinas
+30402,Cartago,Jimenez,Tucurrique
+30403,Cartago,Jimenez,Pejibaye
+30501,Cartago,Turrialba,Turrialba
+30502,Cartago,Turrialba,La Suiza
+30503,Cartago,Turrialba,Peralta
+30504,Cartago,Turrialba,Santa Cruz
+30505,Cartago,Turrialba,Santa Teresita
+30506,Cartago,Turrialba,Pavones
+30507,Cartago,Turrialba,Tuis
+30508,Cartago,Turrialba,Tayutic
+30509,Cartago,Turrialba,Santa Rosa
+30510,Cartago,Turrialba,Tres Equis
+30511,Cartago,Turrialba,La Isabel
+30512,Cartago,Turrialba,Chirripo
+30601,Cartago,Alvarado,Pacayas
+30602,Cartago,Alvarado,Cervantes
+30603,Cartago,Alvarado,Capellades
+30701,Cartago,Oreamuno,San Rafael
+30702,Cartago,Oreamuno,Cot
+30703,Cartago,Oreamuno,Potrero Cerrado
+30704,Cartago,Oreamuno,Cipreses
+30705,Cartago,Oreamuno,Santa Rosa
+30801,Cartago,El Guarco,Tejar
+30802,Cartago,El Guarco,San Isidro
+30803,Cartago,El Guarco,Tobosi
+30804,Cartago,El Guarco,Patio de Agua
+40101,Heredia,Heredia,Heredia
+40102,Heredia,Heredia,Mercedes
+40103,Heredia,Heredia,San Francisco
+40104,Heredia,Heredia,Ulloa
+40105,Heredia,Heredia,Varablanca
+40201,Heredia,Barva,Barva
+40202,Heredia,Barva,San Pedro
+40203,Heredia,Barva,San Pablo
+40204,Heredia,Barva,San Roque
+40205,Heredia,Barva,Santa Lucia
+40206,Heredia,Barva,San Jose de la Montana
+40301,Heredia,Santo Domingo,Santo Domingo
+40302,Heredia,Santo Domingo,San Vicente
+40303,Heredia,Santo Domingo,San Miguel
+40304,Heredia,Santo Domingo,Paracito
+40305,Heredia,Santo Domingo,Santo Tomas
+40306,Heredia,Santo Domingo,Santa Rosa
+40307,Heredia,Santo Domingo,Tures
+40308,Heredia,Santo Domingo,Para
+40401,Heredia,Santa Barbara,Santa Barbara
+40402,Heredia,Santa Barbara,San Pedro
+40403,Heredia,Santa Barbara,San Juan
+40404,Heredia,Santa Barbara,Jesus
+40405,Heredia,Santa Barbara,Santo Domingo
+40406,Heredia,Santa Barbara,Puraba
+40501,Heredia,San Rafael,San Rafael
+40502,Heredia,San Rafael,San Josecito
+40503,Heredia,San Rafael,Santiago
+40504,Heredia,San Rafael,angeles
+40505,Heredia,San Rafael,Concepcion
+40601,Heredia,San Isidro,San Isidro
+40602,Heredia,San Isidro,San Jose
+40603,Heredia,San Isidro,Concepcion
+40604,Heredia,San Isidro,San Francisco
+40701,Heredia,Belen,San Antonio
+40702,Heredia,Belen,Ribera
+40703,Heredia,Belen,Asuncion
+40801,Heredia,Flores,San Joaquin de Flores
+40802,Heredia,Flores,Barrantes
+40803,Heredia,Flores,Llorente
+40901,Heredia,San Pablo,San Pablo
+40902,Heredia,San Pablo,Rincon de Sabanilla
+41001,Heredia,Sarapiqui,Puerto Viejo
+41002,Heredia,Sarapiqui,La Virgen
+41003,Heredia,Sarapiqui,Horquetas
+41004,Heredia,Sarapiqui,Llanuras del Gaspar
+41005,Heredia,Sarapiqui,Curena
+50101,Guanacaste,Liberia,Liberia
+50102,Guanacaste,Liberia,Canas Dulces
+50103,Guanacaste,Liberia,Mayorga
+50104,Guanacaste,Liberia,Nacascolo
+50105,Guanacaste,Liberia,Curubande
+50201,Guanacaste,Nicoya,Nicoya
+50202,Guanacaste,Nicoya,Mansion
+50203,Guanacaste,Nicoya,San Antonio
+50204,Guanacaste,Nicoya,Quebrada Honda
+50205,Guanacaste,Nicoya,Samara
+50206,Guanacaste,Nicoya,Nosara
+50207,Guanacaste,Nicoya,Belen de Nosarita
+50301,Guanacaste,Santa Cruz,Santa Cruz
+50302,Guanacaste,Santa Cruz,Bolson
+50303,Guanacaste,Santa Cruz,Veintisiete de Abril
+50304,Guanacaste,Santa Cruz,Tempate
+50305,Guanacaste,Santa Cruz,Cartagena
+50306,Guanacaste,Santa Cruz,Cuajiniquil
+50307,Guanacaste,Santa Cruz,Diria
+50308,Guanacaste,Santa Cruz,Cabo Velas
+50309,Guanacaste,Santa Cruz,Tamarindo
+50401,Guanacaste,Bagaces,Bagaces
+50402,Guanacaste,Bagaces,Fortuna
+50403,Guanacaste,Bagaces,Mogote
+50404,Guanacaste,Bagaces,Rio Naranjo
+50501,Guanacaste,Carrillo,Filadelfia
+50502,Guanacaste,Carrillo,Palmira
+50503,Guanacaste,Carrillo,Sardinal
+50504,Guanacaste,Carrillo,Belen
+50601,Guanacaste,Canas,Canas
+50602,Guanacaste,Canas,Palmira
+50603,Guanacaste,Canas,San Miguel
+50604,Guanacaste,Canas,Bebedero
+50605,Guanacaste,Canas,Porozal
+50701,Guanacaste,Abangares,Juntas
+50702,Guanacaste,Abangares,Sierra
+50703,Guanacaste,Abangares,San Juan
+50704,Guanacaste,Abangares,Colorado
+50801,Guanacaste,Tilaran,Tilaran
+50802,Guanacaste,Tilaran,Quebrada Grande
+50803,Guanacaste,Tilaran,Tronadora
+50804,Guanacaste,Tilaran,Santa Rosa
+50805,Guanacaste,Tilaran,Libano
+50806,Guanacaste,Tilaran,Tierras Morenas
+50807,Guanacaste,Tilaran,Arenal
+50901,Guanacaste,Nandayure,Carmona
+50902,Guanacaste,Nandayure,Santa Rita
+50903,Guanacaste,Nandayure,Zapotal
+50904,Guanacaste,Nandayure,San Pablo
+50905,Guanacaste,Nandayure,Porvenir
+50906,Guanacaste,Nandayure,Bejuco
+51001,Guanacaste,La Cruz,La Cruz
+51002,Guanacaste,La Cruz,Santa Cecilia
+51003,Guanacaste,La Cruz,Garita
+51004,Guanacaste,La Cruz,Santa Elena
+51101,Guanacaste,Hojancha,Hojancha
+51102,Guanacaste,Hojancha,Monte Romo
+51103,Guanacaste,Hojancha,Puerto Carrillo
+51104,Guanacaste,Hojancha,Huacas
+60101,Puntarenas,Puntarenas,Puntarenas
+60102,Puntarenas,Puntarenas,Pitahaya
+60103,Puntarenas,Puntarenas,Chomes
+60104,Puntarenas,Puntarenas,Lepanto
+60105,Puntarenas,Puntarenas,Paquera
+60106,Puntarenas,Puntarenas,Manzanillo
+60107,Puntarenas,Puntarenas,Guacimal
+60108,Puntarenas,Puntarenas,Barranca
+60109,Puntarenas,Puntarenas,Monte Verde
+60110,Puntarenas,Puntarenas,Isla del Coco
+60111,Puntarenas,Puntarenas,Cobano
+60112,Puntarenas,Puntarenas,Chacarita
+60113,Puntarenas,Puntarenas,Chira
+60114,Puntarenas,Puntarenas,Acapulco
+60115,Puntarenas,Puntarenas,El Roble
+60116,Puntarenas,Puntarenas,Arancibia
+60201,Puntarenas,Esparza,Espiritu Santo
+60202,Puntarenas,Esparza,San Juan Grande
+60203,Puntarenas,Esparza,Macacona
+60204,Puntarenas,Esparza,San Rafael
+60205,Puntarenas,Esparza,San Jeronimo
+60301,Puntarenas,Buenos Aires,Buenos Aires
+60302,Puntarenas,Buenos Aires,Volcan
+60303,Puntarenas,Buenos Aires,Potrero Grande
+60304,Puntarenas,Buenos Aires,Boruca
+60305,Puntarenas,Buenos Aires,Pilas
+60306,Puntarenas,Buenos Aires,Colinas
+60307,Puntarenas,Buenos Aires,Changena
+60308,Puntarenas,Buenos Aires,Briolley
+60309,Puntarenas,Buenos Aires,Brunka
+60401,Puntarenas,Montes de Oro,Miramar
+60402,Puntarenas,Montes de Oro,Union
+60403,Puntarenas,Montes de Oro,San Isidro
+60501,Puntarenas,Osa,Puerto Cortes
+60502,Puntarenas,Osa,Palmar
+60503,Puntarenas,Osa,Sierpe
+60504,Puntarenas,Osa,Bahia Ballena
+60505,Puntarenas,Osa,Piedras Blancas
+60601,Puntarenas,Aguirre,Quepos
+60602,Puntarenas,Aguirre,Savegre
+60603,Puntarenas,Aguirre,Naranjito
+60701,Puntarenas,Golfito,Golfito
+60702,Puntarenas,Golfito,Puerto Jimenez
+60703,Puntarenas,Golfito,Guaycara
+60704,Puntarenas,Golfito,Pavon
+60801,Puntarenas,Coto Brus,San Vito
+60802,Puntarenas,Coto Brus,Sabalito
+60803,Puntarenas,Coto Brus,Aguabuena
+60804,Puntarenas,Coto Brus,Limoncito
+60805,Puntarenas,Coto Brus,Pittier
+60901,Puntarenas,Parrita,Parrita
+61001,Puntarenas,Corredores,Corredor
+61002,Puntarenas,Corredores,La Cuesta
+61003,Puntarenas,Corredores,Canoas
+61004,Puntarenas,Corredores,Laurel
+61101,Puntarenas,Garabito,Jaco
+61102,Puntarenas,Garabito,Tarcoles
+70101,Limon,Limon,Limon
+70102,Limon,Limon,Valle La Estrella
+70103,Limon,Limon,Rio Blanco
+70104,Limon,Limon,Matama
+70201,Limon,Pococi,Guapiles
+70202,Limon,Pococi,Jimenez
+70203,Limon,Pococi,Rita
+70204,Limon,Pococi,Roxana
+70205,Limon,Pococi,Cariari
+70206,Limon,Pococi,Colorado
+70301,Limon,Siquirres,Siquirres
+70302,Limon,Siquirres,Pacuarito
+70303,Limon,Siquirres,Florida
+70304,Limon,Siquirres,Germania
+70305,Limon,Siquirres,Cairo
+70306,Limon,Siquirres,Alegria
+70401,Limon,Talamanca,Bratsi
+70402,Limon,Talamanca,Sixaola
+70403,Limon,Talamanca,Cahuita
+70404,Limon,Talamanca,Telire
+70501,Limon,Matina,Matina
+70502,Limon,Matina,Battan
+70503,Limon,Matina,Carrandi
+70601,Limon,Guacimo,Guacimo
+70602,Limon,Guacimo,Mercedes
+70603,Limon,Guacimo,Pocora
+70604,Limon,Guacimo,Rio Jimenez
+70605,Limon,Guacimo,Duacari
