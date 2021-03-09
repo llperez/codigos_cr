@@ -1,0 +1,82 @@
+CodigoProvincia,CodigoCanton,Provincia,Canton
+1,101,San José,San José
+1,102,San José,Escazú
+1,103,San José,Desamparados
+1,104,San José,Puriscal
+1,105,San José,Tarrazu
+1,106,San José,Aserrí
+1,107,San José,Mora
+1,108,San José,Goicoechea
+1,109,San José,Santa Ana
+1,110,San José,Alajuelita
+1,111,San José,Vázquez de Coronado
+1,112,San José,Acosta
+1,113,San José,Tibás
+1,114,San José,Moravia
+1,115,San José,Montes de Oca
+1,116,San José,Turrubares
+1,117,San José,Dota
+1,118,San José,Curridabat
+1,119,San José,Pérez Zeledón
+1,120,San José,León Cortés
+2,201,Alajuela,Alajuela
+2,202,Alajuela,San Ramón
+2,203,Alajuela,Grecia
+2,204,Alajuela,San Mateo
+2,205,Alajuela,Atenas
+2,206,Alajuela,Naranjo
+2,207,Alajuela,Palmares
+2,208,Alajuela,Poás
+2,209,Alajuela,Orotina
+2,210,Alajuela,San Carlos
+2,211,Alajuela,Zarcero
+2,212,Alajuela,Sarchí
+2,213,Alajuela,Upala
+2,214,Alajuela,Los Chiles
+2,215,Alajuela,Guatuso
+3,301,Cartago,Cartago
+3,302,Cartago,Paraíso
+3,303,Cartago,La Uníón
+3,304,Cartago,Jiménez
+3,305,Cartago,Turrialba
+3,306,Cartago,Alvarado
+3,307,Cartago,Oreamuno
+3,308,Cartago,El Guarco
+4,401,Heredia,Heredia
+4,402,Heredia,Barva
+4,403,Heredia,Santo Domingo
+4,404,Heredia,Santa Bárbara
+4,405,Heredia,San Rafael
+4,406,Heredia,San Isidro
+4,407,Heredia,Belén
+4,408,Heredia,Flores
+4,409,Heredia,San Pablo
+4,410,Heredia,Sarapiquí
+5,501,Guanacaste,Liberia
+5,502,Guanacaste,Nicoya
+5,503,Guanacaste,Santa Cruz
+5,504,Guanacaste,Bagaces
+5,505,Guanacaste,Carrillo
+5,506,Guanacaste,Cañas
+5,507,Guanacaste,Abangares
+5,508,Guanacaste,Tilarán
+5,509,Guanacaste,Nandayure
+5,510,Guanacaste,La Cruz
+5,511,Guanacaste,Hojancha
+6,601,Puntarenas,Puntarenas
+6,602,Puntarenas,Esparza
+6,603,Puntarenas,Buenos Aires
+6,604,Puntarenas,Montes de Oro
+6,605,Puntarenas,Osa
+6,606,Puntarenas,Aguirre
+6,607,Puntarenas,Golfito
+6,608,Puntarenas,Coto Brus
+6,609,Puntarenas,Parrita
+6,610,Puntarenas,Corredores
+6,611,Puntarenas,Garabito
+7,701,Limón,Limón
+7,702,Limón,Pococí
+7,703,Limón,Siquirres
+7,704,Limón,Talamanca
+7,705,Limón,Matina
+7,706,Limón,Guácimo

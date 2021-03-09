@@ -1,4 +1,4 @@
-CodigoPostal,Provincia,Cantón,Distrito
+CodigoPostal,Provincia,Canton,Distrito
 10101,San José,San José,Carmen
 10102,San José,San José,Merced
 10103,San José,San José,Hospital
@@ -45,11 +45,13 @@ CodigoPostal,Provincia,Cantón,Distrito
 10605,San José,Aserrí,Legua
 10606,San José,Aserrí,Monterrey
 10607,San José,Aserrí,Salitrillos
-10701,San José,Mora,Colon
+10701,San José,Mora,Colón
 10702,San José,Mora,Guayabo
 10703,San José,Mora,Tabarcia
 10704,San José,Mora,Piedras Negras
 10705,San José,Mora,Picagres
+10706,San José,Mora,Jaris
+10707,San José,Mora,Quitirrisi
 10801,San José,Goicoechea,Guadalupe
 10802,San José,Goicoechea,San Francisco
 10803,San José,Goicoechea,Calle Blancos
@@ -64,9 +66,9 @@ CodigoPostal,Provincia,Cantón,Distrito
 10905,San José,Santa Ana,Piedades
 10906,San José,Santa Ana,Brasil
 11001,San José,Alajuelita,Alajuelita
-11002,San José,Alajuelita,San Josécito
+11002,San José,Alajuelita,San Josecito
 11003,San José,Alajuelita,San Antonio
-11004,San José,Alajuelita,Concepcion
+11004,San José,Alajuelita,Concepción
 11005,San José,Alajuelita,San Felipe
 11101,San José,Vázquez de Coronado,San Isidro
 11102,San José,Vázquez de Coronado,San Rafael
@@ -103,16 +105,17 @@ CodigoPostal,Provincia,Cantón,Distrito
 11803,San José,Curridabat,Sánchez
 11804,San José,Curridabat,Tirrases
 11901,San José,Pérez Zeledón,San Isidro del General
-11902,San José,Pérez Zeledón,General
+11902,San José,Pérez Zeledón,El General
 11903,San José,Pérez Zeledón,Daniel Flores
 11904,San José,Pérez Zeledón,Rivas
 11905,San José,Pérez Zeledón,San Pedro
 11906,San José,Pérez Zeledón,Platanares
 11907,San José,Pérez Zeledón,Pejibaye
-11908,San José,Pérez Zeledón,Cajon
-11909,San José,Pérez Zeledón,Baru
+11908,San José,Pérez Zeledón,Cajón
+11909,San José,Pérez Zeledón,Barú
 11910,San José,Pérez Zeledón,Río Nuevo
-11911,San José,Pérez Zeledón,Paramo
+11911,San José,Pérez Zeledón,Páramo
+11912,San José,Pérez Zeledón,La Amistad
 12001,San José,León Cortés,San Pablo
 12002,San José,León Cortés,San Andres
 12003,San José,León Cortés,Llano Bonito
@@ -140,10 +143,10 @@ CodigoPostal,Provincia,Cantón,Distrito
 20205,Alajuela,San Ramón,Piedades Sur
 20206,Alajuela,San Ramón,San Rafael
 20207,Alajuela,San Ramón,San Isidro
-20208,Alajuela,San Ramón,angeles
+20208,Alajuela,San Ramón,Ángeles
 20209,Alajuela,San Ramón,Alfaro
 20210,Alajuela,San Ramón,Volio
-20211,Alajuela,San Ramón,Concepcion
+20211,Alajuela,San Ramón,Concepción
 20212,Alajuela,San Ramón,Zapotal
 20213,Alajuela,San Ramón,Peñas Blancas
 20301,Alajuela,Grecia,Grecia
@@ -157,6 +160,7 @@ CodigoPostal,Provincia,Cantón,Distrito
 20401,Alajuela,San Mateo,San Mateo
 20402,Alajuela,San Mateo,Desmonte
 20403,Alajuela,San Mateo,Jesús María
+20404,Alajuela,San Mateo,Labrador
 20501,Alajuela,Atenas,Atenas
 20502,Alajuela,Atenas,Jesús
 20503,Alajuela,Atenas,Mercedes
@@ -179,12 +183,12 @@ CodigoPostal,Provincia,Cantón,Distrito
 20704,Alajuela,Palmares,Santiago
 20705,Alajuela,Palmares,Candelaria
 20706,Alajuela,Palmares,Esquipulas
-20707,Alajuela,Palmares,Granja
-20801,Alajuela,Poas,San Pedro
-20802,Alajuela,Poas,San Juan
-20803,Alajuela,Poas,San Rafael
-20804,Alajuela,Poas,Carrillos
-20805,Alajuela,Poas,Sabana Redonda
+20707,Alajuela,Palmares,La Granja
+20801,Alajuela,Poás,San Pedro
+20802,Alajuela,Poás,San Juan
+20803,Alajuela,Poás,San Rafael
+20804,Alajuela,Poás,Carrillos
+20805,Alajuela,Poás,Sabana Redonda
 20901,Alajuela,Orotina,Orotina
 20902,Alajuela,Orotina,Mastate
 20903,Alajuela,Orotina,Hacienda Vieja
@@ -203,25 +207,26 @@ CodigoPostal,Provincia,Cantón,Distrito
 21011,Alajuela,San Carlos,Cutris
 21012,Alajuela,San Carlos,Monterrey
 21013,Alajuela,San Carlos,Pocosol
-21101,Alajuela,Alfaro Ruiz,Zarcero
-21102,Alajuela,Alfaro Ruiz,Laguna
-21103,Alajuela,Alfaro Ruiz,Tapezco
-21104,Alajuela,Alfaro Ruiz,Guadalupe
-21105,Alajuela,Alfaro Ruiz,Palmira
-21106,Alajuela,Alfaro Ruiz,Zapote
-21107,Alajuela,Alfaro Ruiz,Brisas
-21201,Alajuela,Valverde Vega,Sarchi Norte
-21202,Alajuela,Valverde Vega,Sarchi Sur
-21203,Alajuela,Valverde Vega,Toro Amarillo
-21204,Alajuela,Valverde Vega,San Pedro
-21205,Alajuela,Valverde Vega,Rodriguez
+21101,Alajuela,Zarcero,Zarcero
+21102,Alajuela,Zarcero,Laguna
+21103,Alajuela,Zarcero,Tapezco
+21104,Alajuela,Zarcero,Guadalupe
+21105,Alajuela,Zarcero,Palmira
+21106,Alajuela,Zarcero,Zapote
+21107,Alajuela,Zarcero,Brisas
+21201,Alajuela,Sarchí,Sarchí Norte
+21202,Alajuela,Sarchí,Sarchí Sur
+21203,Alajuela,Sarchí,Toro Amarillo
+21204,Alajuela,Sarchí,San Pedro
+21205,Alajuela,Sarchí,Rodríguez
 21301,Alajuela,Upala,Upala
 21302,Alajuela,Upala,Aguas Claras
-21303,Alajuela,Upala,San José (Pizote)
+21303,Alajuela,Upala,San José
 21304,Alajuela,Upala,Bijagua
 21305,Alajuela,Upala,Delicias
 21306,Alajuela,Upala,Dos Ríos
-21307,Alajuela,Upala,Yoliyllal
+21307,Alajuela,Upala,Yolillal
+21308,Alajuela,Upala,Canalete
 21401,Alajuela,Los Chiles,Los Chiles
 21402,Alajuela,Los Chiles,Caño Negro
 21403,Alajuela,Los Chiles,El Amparo
@@ -244,16 +249,16 @@ CodigoPostal,Provincia,Cantón,Distrito
 30201,Cartago,Paraíso,Paraíso
 30202,Cartago,Paraíso,Santiago
 30203,Cartago,Paraíso,Orosi
-30204,Cartago,Paraíso,Cachi
+30204,Cartago,Paraíso,Cachí
 30205,Cartago,Paraíso,Llanos de Santa Lucia
-30301,Cartago,La Uníon,Tres Ríos
-30302,Cartago,La Uníon,San Diego
-30303,Cartago,La Uníon,San Juan
-30304,Cartago,La Uníon,San Rafael
-30305,Cartago,La Uníon,Concepcion
-30306,Cartago,La Uníon,Dulce Nombre
-30307,Cartago,La Uníon,San Ramón
-30308,Cartago,La Uníon,Río Azul
+30301,Cartago,La Uníón,Tres Ríos
+30302,Cartago,La Uníón,San Diego
+30303,Cartago,La Uníón,San Juan
+30304,Cartago,La Uníón,San Rafael
+30305,Cartago,La Uníón,Concepcion
+30306,Cartago,La Uníón,Dulce Nombre
+30307,Cartago,La Uníón,San Ramón
+30308,Cartago,La Uníón,Río Azúl
 30401,Cartago,Jiménez,Juan Viñas
 30402,Cartago,Jiménez,Tucurrique
 30403,Cartago,Jiménez,Pejibaye
@@ -299,25 +304,25 @@ CodigoPostal,Provincia,Cantón,Distrito
 40305,Heredia,Santo Domingo,Santo Tomas
 40306,Heredia,Santo Domingo,Santa Rosa
 40307,Heredia,Santo Domingo,Tures
-40308,Heredia,Santo Domingo,Para
-40401,Heredia,Santa Barbara,Santa Barbara
-40402,Heredia,Santa Barbara,San Pedro
-40403,Heredia,Santa Barbara,San Juan
-40404,Heredia,Santa Barbara,Jesús
-40405,Heredia,Santa Barbara,Santo Domingo
-40406,Heredia,Santa Barbara,Puraba
+40308,Heredia,Santo Domingo,Pará
+40401,Heredia,Santa Bárbara,Santa Bárbara
+40402,Heredia,Santa Bárbara,San Pedro
+40403,Heredia,Santa Bárbara,San Juan
+40404,Heredia,Santa Bárbara,Jesús
+40405,Heredia,Santa Bárbara,Santo Domingo
+40406,Heredia,Santa Bárbara,Purabá
 40501,Heredia,San Rafael,San Rafael
-40502,Heredia,San Rafael,San Josécito
+40502,Heredia,San Rafael,San Josecito
 40503,Heredia,San Rafael,Santiago
-40504,Heredia,San Rafael,angeles
-40505,Heredia,San Rafael,Concepcion
+40504,Heredia,San Rafael,Los Ángeles
+40505,Heredia,San Rafael,Concepción
 40601,Heredia,San Isidro,San Isidro
 40602,Heredia,San Isidro,San José
 40603,Heredia,San Isidro,Concepcion
 40604,Heredia,San Isidro,San Francisco
-40701,Heredia,Belen,San Antonio
-40702,Heredia,Belen,Ribera
-40703,Heredia,Belen,Asuncion
+40701,Heredia,Belén,San Antonio
+40702,Heredia,Belén,Ribera
+40703,Heredia,Belén,La Asunción
 40801,Heredia,Flores,San Joaquín de Flores
 40802,Heredia,Flores,Barrantes
 40803,Heredia,Flores,Llorente
@@ -332,7 +337,7 @@ CodigoPostal,Provincia,Cantón,Distrito
 50102,Guanacaste,Liberia,Cañas Dulces
 50103,Guanacaste,Liberia,Mayorga
 50104,Guanacaste,Liberia,Nacascolo
-50105,Guanacaste,Liberia,Curubande
+50105,Guanacaste,Liberia,Curubandé
 50201,Guanacaste,Nicoya,Nicoya
 50202,Guanacaste,Nicoya,Mansion
 50203,Guanacaste,Nicoya,San Antonio
@@ -356,7 +361,7 @@ CodigoPostal,Provincia,Cantón,Distrito
 50501,Guanacaste,Carrillo,Filadelfia
 50502,Guanacaste,Carrillo,Palmira
 50503,Guanacaste,Carrillo,Sardinal
-50504,Guanacaste,Carrillo,Belen
+50504,Guanacaste,Carrillo,Belén
 50601,Guanacaste,Cañas,Cañas
 50602,Guanacaste,Cañas,Palmira
 50603,Guanacaste,Cañas,San Miguel
@@ -366,13 +371,13 @@ CodigoPostal,Provincia,Cantón,Distrito
 50702,Guanacaste,Abangares,Sierra
 50703,Guanacaste,Abangares,San Juan
 50704,Guanacaste,Abangares,Colorado
-50801,Guanacaste,Tilaran,Tilaran
-50802,Guanacaste,Tilaran,Quebrada Grande
-50803,Guanacaste,Tilaran,Tronadora
-50804,Guanacaste,Tilaran,Santa Rosa
-50805,Guanacaste,Tilaran,Libano
-50806,Guanacaste,Tilaran,Tierras Morenas
-50807,Guanacaste,Tilaran,Arenal
+50801,Guanacaste,Tilarán,Tilarán
+50802,Guanacaste,Tilarán,Quebrada Grande
+50803,Guanacaste,Tilarán,Tronadora
+50804,Guanacaste,Tilarán,Santa Rosa
+50805,Guanacaste,Tilarán,Libano
+50806,Guanacaste,Tilarán,Tierras Morenas
+50807,Guanacaste,Tilarán,Arenal
 50901,Guanacaste,Nandayure,Carmona
 50902,Guanacaste,Nandayure,Santa Rita
 50903,Guanacaste,Nandayure,Zapotal
@@ -403,11 +408,12 @@ CodigoPostal,Provincia,Cantón,Distrito
 60114,Puntarenas,Puntarenas,Acapulco
 60115,Puntarenas,Puntarenas,El Roble
 60116,Puntarenas,Puntarenas,Arancibia
-60201,Puntarenas,Esparza,Espiritu Santo
+60201,Puntarenas,Esparza,Espíritu Santo
 60202,Puntarenas,Esparza,San Juan Grande
 60203,Puntarenas,Esparza,Macacona
 60204,Puntarenas,Esparza,San Rafael
-60205,Puntarenas,Esparza,San Jeronimo
+60205,Puntarenas,Esparza,San Jerónimo
+60206,Puntarenas,Esparza,Caldera
 60301,Puntarenas,Buenos Aires,Buenos Aires
 60302,Puntarenas,Buenos Aires,Volcan
 60303,Puntarenas,Buenos Aires,Potrero Grande
@@ -418,32 +424,34 @@ CodigoPostal,Provincia,Cantón,Distrito
 60308,Puntarenas,Buenos Aires,Briolley
 60309,Puntarenas,Buenos Aires,Brunka
 60401,Puntarenas,Montes de Oro,Miramar
-60402,Puntarenas,Montes de Oro,Uníon
+60402,Puntarenas,Montes de Oro,La Uníón
 60403,Puntarenas,Montes de Oro,San Isidro
 60501,Puntarenas,Osa,Puerto Cortes
 60502,Puntarenas,Osa,Palmar
 60503,Puntarenas,Osa,Sierpe
 60504,Puntarenas,Osa,Bahia Ballena
 60505,Puntarenas,Osa,Piedras Blancas
+60505,Puntarenas,Osa,Bahía Drake
 60601,Puntarenas,Aguirre,Quepos
 60602,Puntarenas,Aguirre,Savegre
 60603,Puntarenas,Aguirre,Naranjito
 60701,Puntarenas,Golfito,Golfito
 60702,Puntarenas,Golfito,Puerto Jiménez
 60703,Puntarenas,Golfito,Guaycara
-60704,Puntarenas,Golfito,Pavon
+60704,Puntarenas,Golfito,Pavón
 60801,Puntarenas,Coto Brus,San Vito
 60802,Puntarenas,Coto Brus,Sabalito
 60803,Puntarenas,Coto Brus,Aguabuena
-60804,Puntarenas,Coto Brus,Limóncito
+60804,Puntarenas,Coto Brus,Limoncito
 60805,Puntarenas,Coto Brus,Pittier
+60806,Puntarenas,Coto Brus,Gutierrez Brown
 60901,Puntarenas,Parrita,Parrita
 61001,Puntarenas,Corredores,Corredor
 61002,Puntarenas,Corredores,La Cuesta
 61003,Puntarenas,Corredores,Canoas
 61004,Puntarenas,Corredores,Laurel
-61101,Puntarenas,Garabito,Jaco
-61102,Puntarenas,Garabito,Tarcoles
+61101,Puntarenas,Garabito,Jacó
+61102,Puntarenas,Garabito,Tárcoles
 70101,Limón,Limón,Limón
 70102,Limón,Limón,Valle La Estrella
 70103,Limón,Limón,Río Blanco
@@ -459,7 +467,7 @@ CodigoPostal,Provincia,Cantón,Distrito
 70303,Limón,Siquirres,Florida
 70304,Limón,Siquirres,Germania
 70305,Limón,Siquirres,Cairo
-70306,Limón,Siquirres,Alegria
+70306,Limón,Siquirres,Alegría
 70401,Limón,Talamanca,Bratsi
 70402,Limón,Talamanca,Sixaola
 70403,Limón,Talamanca,Cahuita

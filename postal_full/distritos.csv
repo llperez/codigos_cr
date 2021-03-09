@@ -1,0 +1,482 @@
+CodigoProvincia,CodigoCanton,CodigoDistrito,Provincia,Canton,Distrito,RegionINEC
+1,101,10101,San José,San José,Carmen,Central
+1,101,10102,San José,San José,Merced,Central
+1,101,10103,San José,San José,Hospital,Central
+1,101,10104,San José,San José,Catedral,Central
+1,101,10105,San José,San José,Zapote,Central
+1,101,10106,San José,San José,San Francisco de Dos Ríos,Central
+1,101,10107,San José,San José,Uruca,Central
+1,101,10108,San José,San José,Mata Redonda,Central
+1,101,10109,San José,San José,Pavas,Central
+1,101,10110,San José,San José,Hatillo,Central
+1,101,10111,San José,San José,San Sebastian,Central
+1,102,10201,San José,Escazú,Escazú,Central
+1,102,10202,San José,Escazú,San Antonio,Central
+1,102,10203,San José,Escazú,San Rafael,Central
+1,103,10301,San José,Desamparados,Desamparados,Central
+1,103,10302,San José,Desamparados,San Miguel,Central
+1,103,10303,San José,Desamparados,San Juan de Dios,Central
+1,103,10304,San José,Desamparados,San Rafael Arriba,Central
+1,103,10305,San José,Desamparados,San Antonio,Central
+1,103,10306,San José,Desamparados,Frailes,Central
+1,103,10307,San José,Desamparados,Patarra,Central
+1,103,10308,San José,Desamparados,San Cristobal,Central
+1,103,10309,San José,Desamparados,Rosario,Central
+1,103,10310,San José,Desamparados,Damas,Central
+1,103,10311,San José,Desamparados,San Rafael Abajo,Central
+1,103,10312,San José,Desamparados,Gravilias,Central
+1,103,10313,San José,Desamparados,Los Guido,Central
+1,104,10401,San José,Puriscal,Santiago,Central
+1,104,10402,San José,Puriscal,Mercedes Sur,Central
+1,104,10403,San José,Puriscal,Barbacoas,Central
+1,104,10404,San José,Puriscal,Grifo Alto,Central
+1,104,10405,San José,Puriscal,San Rafael,Central
+1,104,10406,San José,Puriscal,Candelaria,Central
+1,104,10407,San José,Puriscal,Desamparaditos,Central
+1,104,10408,San José,Puriscal,San Antonio,Central
+1,104,10409,San José,Puriscal,Chires,Central
+1,105,10501,San José,Tarrazu,San Marcos,Central
+1,105,10502,San José,Tarrazu,San Lorenzo,Central
+1,105,10503,San José,Tarrazu,San Carlos,Central
+1,106,10601,San José,Aserrí,Aserrí,Central
+1,106,10602,San José,Aserrí,Tarbaca,Central
+1,106,10603,San José,Aserrí,Vuelta de Jorco,Central
+1,106,10604,San José,Aserrí,San Gabriel,Central
+1,106,10605,San José,Aserrí,Legua,Central
+1,106,10606,San José,Aserrí,Monterrey,Central
+1,106,10607,San José,Aserrí,Salitrillos,Central
+1,107,10701,San José,Mora,Colón,Central
+1,107,10702,San José,Mora,Guayabo,Central
+1,107,10703,San José,Mora,Tabarcia,Central
+1,107,10704,San José,Mora,Piedras Negras,Central
+1,107,10705,San José,Mora,Picagres,Central
+1,107,10706,San José,Mora,Jaris,Central
+1,107,10707,San José,Mora,Quitirrisi,Central
+1,108,10801,San José,Goicoechea,Guadalupe,Central
+1,108,10802,San José,Goicoechea,San Francisco,Central
+1,108,10803,San José,Goicoechea,Calle Blancos,Central
+1,108,10804,San José,Goicoechea,Mata de Platano,Central
+1,108,10805,San José,Goicoechea,Ipis,Central
+1,108,10806,San José,Goicoechea,Rancho Redondo,Central
+1,108,10807,San José,Goicoechea,Purral,Central
+1,109,10901,San José,Santa Ana,Santa Ana,Central
+1,109,10902,San José,Santa Ana,Salitral,Central
+1,109,10903,San José,Santa Ana,Pozos,Central
+1,109,10904,San José,Santa Ana,Uruca,Central
+1,109,10905,San José,Santa Ana,Piedades,Central
+1,109,10906,San José,Santa Ana,Brasil,Central
+1,110,11001,San José,Alajuelita,Alajuelita,Central
+1,110,11002,San José,Alajuelita,San Josecito,Central
+1,110,11003,San José,Alajuelita,San Antonio,Central
+1,110,11004,San José,Alajuelita,Concepción,Central
+1,110,11005,San José,Alajuelita,San Felipe,Central
+1,111,11101,San José,Vázquez de Coronado,San Isidro,Central
+1,111,11102,San José,Vázquez de Coronado,San Rafael,Central
+1,111,11103,San José,Vázquez de Coronado,Dulce Nombre de Jesús,Central
+1,111,11104,San José,Vázquez de Coronado,Patalillo,Central
+1,111,11105,San José,Vázquez de Coronado,Cascajal,Central
+1,112,11201,San José,Acosta,San Ignacio de Acosta,Central
+1,112,11202,San José,Acosta,Guaitil,Central
+1,112,11203,San José,Acosta,Palmichal,Central
+1,112,11204,San José,Acosta,Cangrejal,Central
+1,112,11205,San José,Acosta,Sabanillas,Central
+1,113,11301,San José,Tibás,San Juan,Central
+1,113,11302,San José,Tibás,Cinco esquinas,Central
+1,113,11303,San José,Tibás,Anselmo Llorente,Central
+1,113,11304,San José,Tibás,Leon XIII,Central
+1,113,11305,San José,Tibás,Colima,Central
+1,114,11401,San José,Moravia,San Vicente,Central
+1,114,11402,San José,Moravia,San Jeronimo,Central
+1,114,11403,San José,Moravia,Trinidad,Central
+1,115,11501,San José,Montes de Oca,San Pedro,Central
+1,115,11502,San José,Montes de Oca,Sabanilla,Central
+1,115,11503,San José,Montes de Oca,Mercedes,Central
+1,115,11504,San José,Montes de Oca,San Rafael,Central
+1,116,11601,San José,Turrubares,San Pablo,Central
+1,116,11602,San José,Turrubares,San Pedro,Central
+1,116,11603,San José,Turrubares,San Juan de Mata,Central
+1,116,11604,San José,Turrubares,San Luis,Central
+1,116,11605,San José,Turrubares,Carara,Central
+1,117,11701,San José,Dota,Santa María,Central
+1,117,11702,San José,Dota,Jardin,Central
+1,117,11703,San José,Dota,Copey,Central
+1,118,11801,San José,Curridabat,Curridabat,Central
+1,118,11802,San José,Curridabat,Granadilla,Central
+1,118,11803,San José,Curridabat,Sánchez,Central
+1,118,11804,San José,Curridabat,Tirrases,Central
+1,119,11901,San José,Pérez Zeledón,San Isidro del General,Brunca
+1,119,11902,San José,Pérez Zeledón,El General,Brunca
+1,119,11903,San José,Pérez Zeledón,Daniel Flores,Brunca
+1,119,11904,San José,Pérez Zeledón,Rivas,Brunca
+1,119,11905,San José,Pérez Zeledón,San Pedro,Brunca
+1,119,11906,San José,Pérez Zeledón,Platanares,Brunca
+1,119,11907,San José,Pérez Zeledón,Pejibaye,Brunca
+1,119,11908,San José,Pérez Zeledón,Cajón,Brunca
+1,119,11909,San José,Pérez Zeledón,Barú,Brunca
+1,119,11910,San José,Pérez Zeledón,Río Nuevo,Brunca
+1,119,11911,San José,Pérez Zeledón,Páramo,Brunca
+1,119,11912,San José,Pérez Zeledón,La Amistad,Brunca
+1,120,12001,San José,León Cortés,San Pablo,Central
+1,120,12002,San José,León Cortés,San Andres,Central
+1,120,12003,San José,León Cortés,Llano Bonito,Central
+1,120,12004,San José,León Cortés,San Isidro,Central
+1,120,12005,San José,León Cortés,Santa Cruz,Central
+1,120,12006,San José,León Cortés,San Antonio,Central
+2,201,20101,Alajuela,Alajuela,Alajuela,Central
+2,201,20102,Alajuela,Alajuela,San José,Central
+2,201,20103,Alajuela,Alajuela,Carrizal,Central
+2,201,20104,Alajuela,Alajuela,San Antonio,Central
+2,201,20105,Alajuela,Alajuela,Guacima,Central
+2,201,20106,Alajuela,Alajuela,San Isidro,Central
+2,201,20107,Alajuela,Alajuela,Sabanilla,Central
+2,201,20108,Alajuela,Alajuela,San Rafael,Central
+2,201,20109,Alajuela,Alajuela,Río Segundo,Central
+2,201,20110,Alajuela,Alajuela,Desamparados,Central
+2,201,20111,Alajuela,Alajuela,Turrucares,Central
+2,201,20112,Alajuela,Alajuela,Tambor,Central
+2,201,20113,Alajuela,Alajuela,Garita,Central
+2,201,20114,Alajuela,Alajuela,Sarapiquí,Huetar Norte
+2,202,20201,Alajuela,San Ramón,San Ramón,Central
+2,202,20202,Alajuela,San Ramón,Santiago,Central
+2,202,20203,Alajuela,San Ramón,San Juan,Central
+2,202,20204,Alajuela,San Ramón,Piedades Norte,Central
+2,202,20205,Alajuela,San Ramón,Piedades Sur,Central
+2,202,20206,Alajuela,San Ramón,San Rafael,Central
+2,202,20207,Alajuela,San Ramón,San Isidro,Central
+2,202,20208,Alajuela,San Ramón,Ángeles,Central
+2,202,20209,Alajuela,San Ramón,Alfaro,Central
+2,202,20210,Alajuela,San Ramón,Volio,Central
+2,202,20211,Alajuela,San Ramón,Concepción,Central
+2,202,20212,Alajuela,San Ramón,Zapotal,Central
+2,202,20213,Alajuela,San Ramón,Peñas Blancas,Huetar Norte
+2,203,20301,Alajuela,Grecia,Grecia,Central
+2,203,20302,Alajuela,Grecia,San Isidro,Central
+2,203,20303,Alajuela,Grecia,San José,Central
+2,203,20304,Alajuela,Grecia,San Roque,Central
+2,203,20305,Alajuela,Grecia,Tacares,Central
+2,203,20306,Alajuela,Grecia,Río Cuarto,Central
+2,203,20307,Alajuela,Grecia,Puente de Piedra,Central
+2,203,20308,Alajuela,Grecia,Bolivar,Central
+2,204,20401,Alajuela,San Mateo,San Mateo,Pacífico Central
+2,204,20402,Alajuela,San Mateo,Desmonte,Pacífico Central
+2,204,20403,Alajuela,San Mateo,Jesús María,Pacífico Central
+2,204,20404,Alajuela,San Mateo,Labrador,Pacífico Central
+2,205,20501,Alajuela,Atenas,Atenas,Central
+2,205,20502,Alajuela,Atenas,Jesús,Central
+2,205,20503,Alajuela,Atenas,Mercedes,Central
+2,205,20504,Alajuela,Atenas,San Isidro,Central
+2,205,20505,Alajuela,Atenas,Concepcion,Central
+2,205,20506,Alajuela,Atenas,San José,Central
+2,205,20507,Alajuela,Atenas,Santa Eulalia,Central
+2,205,20508,Alajuela,Atenas,Escobal,Central
+2,206,20601,Alajuela,Naranjo,Naranjo,Central
+2,206,20602,Alajuela,Naranjo,San Miguel,Central
+2,206,20603,Alajuela,Naranjo,San José,Central
+2,206,20604,Alajuela,Naranjo,Cirri Sur,Central
+2,206,20605,Alajuela,Naranjo,San Jeronimo,Central
+2,206,20606,Alajuela,Naranjo,San Juan,Central
+2,206,20607,Alajuela,Naranjo,Rosario,Central
+2,206,20608,Alajuela,Naranjo,Palmitos,Central
+2,207,20701,Alajuela,Palmares,Palmares,Central
+2,207,20702,Alajuela,Palmares,Zaragoza,Central
+2,207,20703,Alajuela,Palmares,Buenos Aires,Central
+2,207,20704,Alajuela,Palmares,Santiago,Central
+2,207,20705,Alajuela,Palmares,Candelaria,Central
+2,207,20706,Alajuela,Palmares,Esquipulas,Central
+2,207,20707,Alajuela,Palmares,La Granja,Central
+2,208,20801,Alajuela,Poás,San Pedro,Central
+2,208,20802,Alajuela,Poás,San Juan,Central
+2,208,20803,Alajuela,Poás,San Rafael,Central
+2,208,20804,Alajuela,Poás,Carrillos,Central
+2,208,20805,Alajuela,Poás,Sabana Redonda,Central
+2,209,20901,Alajuela,Orotina,Orotina,Pacífico Central
+2,209,20902,Alajuela,Orotina,Mastate,Pacífico Central
+2,209,20903,Alajuela,Orotina,Hacienda Vieja,Pacífico Central
+2,209,20904,Alajuela,Orotina,Coyolar,Pacífico Central
+2,209,20905,Alajuela,Orotina,Ceiba,Pacífico Central
+2,210,21001,Alajuela,San Carlos,Quesada,Huetar Norte
+2,210,21002,Alajuela,San Carlos,Florencia,Huetar Norte
+2,210,21003,Alajuela,San Carlos,Buenavista,Huetar Norte
+2,210,21004,Alajuela,San Carlos,Aguas Zarcas,Huetar Norte
+2,210,21005,Alajuela,San Carlos,Venecia,Huetar Norte
+2,210,21006,Alajuela,San Carlos,Pital,Huetar Norte
+2,210,21007,Alajuela,San Carlos,Fortuna,Huetar Norte
+2,210,21008,Alajuela,San Carlos,Tigra,Huetar Norte
+2,210,21009,Alajuela,San Carlos,Palmera,Huetar Norte
+2,210,21010,Alajuela,San Carlos,Venado,Huetar Norte
+2,210,21011,Alajuela,San Carlos,Cutris,Huetar Norte
+2,210,21012,Alajuela,San Carlos,Monterrey,Huetar Norte
+2,210,21013,Alajuela,San Carlos,Pocosol,Huetar Norte
+2,211,21101,Alajuela,Zarcero,Zarcero,Central
+2,211,21102,Alajuela,Zarcero,Laguna,Central
+2,211,21103,Alajuela,Zarcero,Tapezco,Central
+2,211,21104,Alajuela,Zarcero,Guadalupe,Central
+2,211,21105,Alajuela,Zarcero,Palmira,Central
+2,211,21106,Alajuela,Zarcero,Zapote,Central
+2,211,21107,Alajuela,Zarcero,Brisas,Central
+2,212,21201,Alajuela,Sarchí,Sarchí Norte,Central
+2,212,21202,Alajuela,Sarchí,Sarchí Sur,Central
+2,212,21203,Alajuela,Sarchí,Toro Amarillo,Central
+2,212,21204,Alajuela,Sarchí,San Pedro,Central
+2,212,21205,Alajuela,Sarchí,Rodríguez,Central
+2,213,21301,Alajuela,Upala,Upala,Chorotega
+2,213,21302,Alajuela,Upala,Aguas Claras,Chorotega
+2,213,21303,Alajuela,Upala,San José,Chorotega
+2,213,21304,Alajuela,Upala,Bijagua,Chorotega
+2,213,21305,Alajuela,Upala,Delicias,Chorotega
+2,213,21306,Alajuela,Upala,Dos Ríos,Chorotega
+2,213,21307,Alajuela,Upala,Yolillal,Chorotega
+2,213,21308,Alajuela,Upala,Canalete,Chorotega
+2,214,21401,Alajuela,Los Chiles,Los Chiles,Huetar Norte
+2,214,21402,Alajuela,Los Chiles,Caño Negro,Huetar Norte
+2,214,21403,Alajuela,Los Chiles,El Amparo,Huetar Norte
+2,214,21404,Alajuela,Los Chiles,San Jorge,Huetar Norte
+2,215,21501,Alajuela,Guatuso,San Rafael,Huetar Norte
+2,215,21502,Alajuela,Guatuso,Buenavista,Huetar Norte
+2,215,21503,Alajuela,Guatuso,Cote,Huetar Norte
+2,215,21504,Alajuela,Guatuso,Katira,Huetar Norte
+3,301,30101,Cartago,Cartago,Oriental,Central
+3,301,30102,Cartago,Cartago,Occidental,Central
+3,301,30103,Cartago,Cartago,Carmen,Central
+3,301,30104,Cartago,Cartago,San Nicolas,Central
+3,301,30105,Cartago,Cartago,Aguacaliente (San Francisco),Central
+3,301,30106,Cartago,Cartago,Guadalupe (Arenilla),Central
+3,301,30107,Cartago,Cartago,Corralillo,Central
+3,301,30108,Cartago,Cartago,Tierra Blanca,Central
+3,301,30109,Cartago,Cartago,Dulce Nombre,Central
+3,301,30110,Cartago,Cartago,Llano Grande,Central
+3,301,30111,Cartago,Cartago,Quebradilla,Central
+3,302,30201,Cartago,Paraíso,Paraíso,Central
+3,302,30202,Cartago,Paraíso,Santiago,Central
+3,302,30203,Cartago,Paraíso,Orosi,Central
+3,302,30204,Cartago,Paraíso,Cachí,Central
+3,302,30205,Cartago,Paraíso,Llanos de Santa Lucia,Central
+3,303,30301,Cartago,La Uníón,Tres Ríos,Central
+3,303,30302,Cartago,La Uníón,San Diego,Central
+3,303,30303,Cartago,La Uníón,San Juan,Central
+3,303,30304,Cartago,La Uníón,San Rafael,Central
+3,303,30305,Cartago,La Uníón,Concepcion,Central
+3,303,30306,Cartago,La Uníón,Dulce Nombre,Central
+3,303,30307,Cartago,La Uníón,San Ramón,Central
+3,303,30308,Cartago,La Uníón,Río Azúl,Central
+3,304,30401,Cartago,Jiménez,Juan Viñas,Central
+3,304,30402,Cartago,Jiménez,Tucurrique,Central
+3,304,30403,Cartago,Jiménez,Pejibaye,Central
+3,305,30501,Cartago,Turrialba,Turrialba,Central
+3,305,30502,Cartago,Turrialba,La Suiza,Central
+3,305,30503,Cartago,Turrialba,Peralta,Central
+3,305,30504,Cartago,Turrialba,Santa Cruz,Central
+3,305,30505,Cartago,Turrialba,Santa Teresita,Central
+3,305,30506,Cartago,Turrialba,Pavones,Central
+3,305,30507,Cartago,Turrialba,Tuis,Central
+3,305,30508,Cartago,Turrialba,Tayutic,Central
+3,305,30509,Cartago,Turrialba,Santa Rosa,Central
+3,305,30510,Cartago,Turrialba,Tres Equis,Central
+3,305,30511,Cartago,Turrialba,La Isabel,Central
+3,305,30512,Cartago,Turrialba,Chirripo,Central
+3,306,30601,Cartago,Alvarado,Pacayas,Central
+3,306,30602,Cartago,Alvarado,Cervantes,Central
+3,306,30603,Cartago,Alvarado,Capellades,Central
+3,307,30701,Cartago,Oreamuno,San Rafael,Central
+3,307,30702,Cartago,Oreamuno,Cot,Central
+3,307,30703,Cartago,Oreamuno,Potrero Cerrado,Central
+3,307,30704,Cartago,Oreamuno,Cipreses,Central
+3,307,30705,Cartago,Oreamuno,Santa Rosa,Central
+3,308,30801,Cartago,El Guarco,Tejar,Central
+3,308,30802,Cartago,El Guarco,San Isidro,Central
+3,308,30803,Cartago,El Guarco,Tobosi,Central
+3,308,30804,Cartago,El Guarco,Patio de Agua,Central
+4,401,40101,Heredia,Heredia,Heredia,Central
+4,401,40102,Heredia,Heredia,Mercedes,Central
+4,401,40103,Heredia,Heredia,San Francisco,Central
+4,401,40104,Heredia,Heredia,Ulloa,Central
+4,401,40105,Heredia,Heredia,Varablanca,Central
+4,402,40201,Heredia,Barva,Barva,Central
+4,402,40202,Heredia,Barva,San Pedro,Central
+4,402,40203,Heredia,Barva,San Pablo,Central
+4,402,40204,Heredia,Barva,San Roque,Central
+4,402,40205,Heredia,Barva,Santa Lucia,Central
+4,402,40206,Heredia,Barva,San José de la Montaña,Central
+4,403,40301,Heredia,Santo Domingo,Santo Domingo,Central
+4,403,40302,Heredia,Santo Domingo,San Vicente,Central
+4,403,40303,Heredia,Santo Domingo,San Miguel,Central
+4,403,40304,Heredia,Santo Domingo,Paracito,Central
+4,403,40305,Heredia,Santo Domingo,Santo Tomas,Central
+4,403,40306,Heredia,Santo Domingo,Santa Rosa,Central
+4,403,40307,Heredia,Santo Domingo,Tures,Central
+4,403,40308,Heredia,Santo Domingo,Pará,Central
+4,404,40401,Heredia,Santa Bárbara,Santa Bárbara,Central
+4,404,40402,Heredia,Santa Bárbara,San Pedro,Central
+4,404,40403,Heredia,Santa Bárbara,San Juan,Central
+4,404,40404,Heredia,Santa Bárbara,Jesús,Central
+4,404,40405,Heredia,Santa Bárbara,Santo Domingo,Central
+4,404,40406,Heredia,Santa Bárbara,Purabá,Central
+4,405,40501,Heredia,San Rafael,San Rafael,Central
+4,405,40502,Heredia,San Rafael,San Josecito,Central
+4,405,40503,Heredia,San Rafael,Santiago,Central
+4,405,40504,Heredia,San Rafael,Los Ángeles,Central
+4,405,40505,Heredia,San Rafael,Concepción,Central
+4,406,40601,Heredia,San Isidro,San Isidro,Central
+4,406,40602,Heredia,San Isidro,San José,Central
+4,406,40603,Heredia,San Isidro,Concepcion,Central
+4,406,40604,Heredia,San Isidro,San Francisco,Central
+4,407,40701,Heredia,Belén,San Antonio,Central
+4,407,40702,Heredia,Belén,Ribera,Central
+4,407,40703,Heredia,Belén,La Asunción,Central
+4,408,40801,Heredia,Flores,San Joaquín de Flores,Central
+4,408,40802,Heredia,Flores,Barrantes,Central
+4,408,40803,Heredia,Flores,Llorente,Central
+4,409,40901,Heredia,San Pablo,San Pablo,Central
+4,409,40902,Heredia,San Pablo,Rincón de Sabanilla,Central
+4,410,41001,Heredia,Sarapiquí,Puerto Viejo,Huetar Norte
+4,410,41002,Heredia,Sarapiquí,La Virgen,Huetar Norte
+4,410,41003,Heredia,Sarapiquí,Horquetas,Huetar Atlántica
+4,410,41004,Heredia,Sarapiquí,Llanuras del Gaspar,Huetar Norte
+4,410,41005,Heredia,Sarapiquí,Cureña,Huetar Norte
+5,501,50101,Guanacaste,Liberia,Liberia,Chorotega
+5,501,50102,Guanacaste,Liberia,Cañas Dulces,Chorotega
+5,501,50103,Guanacaste,Liberia,Mayorga,Chorotega
+5,501,50104,Guanacaste,Liberia,Nacascolo,Chorotega
+5,501,50105,Guanacaste,Liberia,Curubandé,Chorotega
+5,502,50201,Guanacaste,Nicoya,Nicoya,Chorotega
+5,502,50202,Guanacaste,Nicoya,Mansion,Chorotega
+5,502,50203,Guanacaste,Nicoya,San Antonio,Chorotega
+5,502,50204,Guanacaste,Nicoya,Quebrada Honda,Chorotega
+5,502,50205,Guanacaste,Nicoya,Samara,Chorotega
+5,502,50206,Guanacaste,Nicoya,Nosara,Chorotega
+5,502,50207,Guanacaste,Nicoya,Belen de Nosarita,Chorotega
+5,503,50301,Guanacaste,Santa Cruz,Santa Cruz,Chorotega
+5,503,50302,Guanacaste,Santa Cruz,Bolson,Chorotega
+5,503,50303,Guanacaste,Santa Cruz,Veintisiete de Abril,Chorotega
+5,503,50304,Guanacaste,Santa Cruz,Tempate,Chorotega
+5,503,50305,Guanacaste,Santa Cruz,Cartagena,Chorotega
+5,503,50306,Guanacaste,Santa Cruz,Cuajiniquil,Chorotega
+5,503,50307,Guanacaste,Santa Cruz,Diria,Chorotega
+5,503,50308,Guanacaste,Santa Cruz,Cabo Velas,Chorotega
+5,503,50309,Guanacaste,Santa Cruz,Tamarindo,Chorotega
+5,504,50401,Guanacaste,Bagaces,Bagaces,Chorotega
+5,504,50402,Guanacaste,Bagaces,Fortuna,Chorotega
+5,504,50403,Guanacaste,Bagaces,Mogote,Chorotega
+5,504,50404,Guanacaste,Bagaces,Río Naranjo,Chorotega
+5,505,50501,Guanacaste,Carrillo,Filadelfia,Chorotega
+5,505,50502,Guanacaste,Carrillo,Palmira,Chorotega
+5,505,50503,Guanacaste,Carrillo,Sardinal,Chorotega
+5,505,50504,Guanacaste,Carrillo,Belén,Chorotega
+5,506,50601,Guanacaste,Cañas,Cañas,Chorotega
+5,506,50602,Guanacaste,Cañas,Palmira,Chorotega
+5,506,50603,Guanacaste,Cañas,San Miguel,Chorotega
+5,506,50604,Guanacaste,Cañas,Bebedero,Chorotega
+5,506,50605,Guanacaste,Cañas,Porozal,Chorotega
+5,507,50701,Guanacaste,Abangares,Juntas,Chorotega
+5,507,50702,Guanacaste,Abangares,Sierra,Chorotega
+5,507,50703,Guanacaste,Abangares,San Juan,Chorotega
+5,507,50704,Guanacaste,Abangares,Colorado,Chorotega
+5,508,50801,Guanacaste,Tilarán,Tilarán,Chorotega
+5,508,50802,Guanacaste,Tilarán,Quebrada Grande,Chorotega
+5,508,50803,Guanacaste,Tilarán,Tronadora,Chorotega
+5,508,50804,Guanacaste,Tilarán,Santa Rosa,Chorotega
+5,508,50805,Guanacaste,Tilarán,Libano,Chorotega
+5,508,50806,Guanacaste,Tilarán,Tierras Morenas,Chorotega
+5,508,50807,Guanacaste,Tilarán,Arenal,Chorotega
+5,509,50901,Guanacaste,Nandayure,Carmona,Chorotega
+5,509,50902,Guanacaste,Nandayure,Santa Rita,Chorotega
+5,509,50903,Guanacaste,Nandayure,Zapotal,Chorotega
+5,509,50904,Guanacaste,Nandayure,San Pablo,Chorotega
+5,509,50905,Guanacaste,Nandayure,Porvenir,Chorotega
+5,509,50906,Guanacaste,Nandayure,Bejuco,Chorotega
+5,510,51001,Guanacaste,La Cruz,La Cruz,Chorotega
+5,510,51002,Guanacaste,La Cruz,Santa Cecilia,Chorotega
+5,510,51003,Guanacaste,La Cruz,Garita,Chorotega
+5,510,51004,Guanacaste,La Cruz,Santa Elena,Chorotega
+5,511,51101,Guanacaste,Hojancha,Hojancha,Chorotega
+5,511,51102,Guanacaste,Hojancha,Monte Romo,Chorotega
+5,511,51103,Guanacaste,Hojancha,Puerto Carrillo,Chorotega
+5,511,51104,Guanacaste,Hojancha,Huacas,Chorotega
+6,601,60101,Puntarenas,Puntarenas,Puntarenas,Pacífico Central
+6,601,60102,Puntarenas,Puntarenas,Pitahaya,Pacífico Central
+6,601,60103,Puntarenas,Puntarenas,Chomes,Pacífico Central
+6,601,60104,Puntarenas,Puntarenas,Lepanto,Pacífico Central
+6,601,60105,Puntarenas,Puntarenas,Paquera,Pacífico Central
+6,601,60106,Puntarenas,Puntarenas,Manzanillo,Pacífico Central
+6,601,60107,Puntarenas,Puntarenas,Guacimal,Pacífico Central
+6,601,60108,Puntarenas,Puntarenas,Barranca,Pacífico Central
+6,601,60109,Puntarenas,Puntarenas,Monte Verde,Pacífico Central
+6,601,60110,Puntarenas,Puntarenas,Isla del Coco,Pacífico Central
+6,601,60111,Puntarenas,Puntarenas,Cobano,Pacífico Central
+6,601,60112,Puntarenas,Puntarenas,Chacarita,Pacífico Central
+6,601,60113,Puntarenas,Puntarenas,Chira,Pacífico Central
+6,601,60114,Puntarenas,Puntarenas,Acapulco,Pacífico Central
+6,601,60115,Puntarenas,Puntarenas,El Roble,Pacífico Central
+6,601,60116,Puntarenas,Puntarenas,Arancibia,Pacífico Central
+6,602,60201,Puntarenas,Esparza,Espíritu Santo,Pacífico Central
+6,602,60202,Puntarenas,Esparza,San Juan Grande,Pacífico Central
+6,602,60203,Puntarenas,Esparza,Macacona,Pacífico Central
+6,602,60204,Puntarenas,Esparza,San Rafael,Pacífico Central
+6,602,60205,Puntarenas,Esparza,San Jerónimo,Pacífico Central
+6,602,60206,Puntarenas,Esparza,Caldera,Pacífico Central
+6,603,60301,Puntarenas,Buenos Aires,Buenos Aires,Brunca
+6,603,60302,Puntarenas,Buenos Aires,Volcan,Brunca
+6,603,60303,Puntarenas,Buenos Aires,Potrero Grande,Brunca
+6,603,60304,Puntarenas,Buenos Aires,Boruca,Brunca
+6,603,60305,Puntarenas,Buenos Aires,Pilas,Brunca
+6,603,60306,Puntarenas,Buenos Aires,Colinas,Brunca
+6,603,60307,Puntarenas,Buenos Aires,Changena,Brunca
+6,603,60308,Puntarenas,Buenos Aires,Briolley,Brunca
+6,603,60309,Puntarenas,Buenos Aires,Brunka,Brunca
+6,604,60401,Puntarenas,Montes de Oro,Miramar,Pacífico Central
+6,604,60402,Puntarenas,Montes de Oro,La Uníón,Pacífico Central
+6,604,60403,Puntarenas,Montes de Oro,San Isidro,Pacífico Central
+6,605,60501,Puntarenas,Osa,Puerto Cortes,Brunca
+6,605,60502,Puntarenas,Osa,Palmar,Brunca
+6,605,60503,Puntarenas,Osa,Sierpe,Brunca
+6,605,60504,Puntarenas,Osa,Bahia Ballena,Brunca
+6,605,60505,Puntarenas,Osa,Piedras Blancas,Brunca
+6,605,60505,Puntarenas,Osa,Bahía Drake,Brunca
+6,606,60601,Puntarenas,Aguirre,Quepos,Pacífico Central
+6,606,60602,Puntarenas,Aguirre,Savegre,Pacífico Central
+6,606,60603,Puntarenas,Aguirre,Naranjito,Pacífico Central
+6,607,60701,Puntarenas,Golfito,Golfito,Brunca
+6,607,60702,Puntarenas,Golfito,Puerto Jiménez,Brunca
+6,607,60703,Puntarenas,Golfito,Guaycara,Brunca
+6,607,60704,Puntarenas,Golfito,Pavón,Brunca
+6,608,60801,Puntarenas,Coto Brus,San Vito,Brunca
+6,608,60802,Puntarenas,Coto Brus,Sabalito,Brunca
+6,608,60803,Puntarenas,Coto Brus,Aguabuena,Brunca
+6,608,60804,Puntarenas,Coto Brus,Limoncito,Brunca
+6,608,60805,Puntarenas,Coto Brus,Pittier,Brunca
+6,608,60806,Puntarenas,Coto Brus,Gutierrez Brown,Brunca
+6,609,60901,Puntarenas,Parrita,Parrita,Pacífico Central
+6,610,61001,Puntarenas,Corredores,Corredor,Brunca
+6,610,61002,Puntarenas,Corredores,La Cuesta,Brunca
+6,610,61003,Puntarenas,Corredores,Canoas,Brunca
+6,610,61004,Puntarenas,Corredores,Laurel,Brunca
+6,611,61101,Puntarenas,Garabito,Jacó,Pacífico Central
+6,611,61102,Puntarenas,Garabito,Tárcoles,Pacífico Central
+7,701,70101,Limón,Limón,Limón,Huetar Atlántica
+7,701,70102,Limón,Limón,Valle La Estrella,Huetar Atlántica
+7,701,70103,Limón,Limón,Río Blanco,Huetar Atlántica
+7,701,70104,Limón,Limón,Matama,Huetar Atlántica
+7,702,70201,Limón,Pococí,Guapiles,Huetar Atlántica
+7,702,70202,Limón,Pococí,Jiménez,Huetar Atlántica
+7,702,70203,Limón,Pococí,Rita,Huetar Atlántica
+7,702,70204,Limón,Pococí,Roxana,Huetar Atlántica
+7,702,70205,Limón,Pococí,Cariari,Huetar Atlántica
+7,702,70206,Limón,Pococí,Colorado,Huetar Atlántica
+7,703,70301,Limón,Siquirres,Siquirres,Huetar Atlántica
+7,703,70302,Limón,Siquirres,Pacuarito,Huetar Atlántica
+7,703,70303,Limón,Siquirres,Florida,Huetar Atlántica
+7,703,70304,Limón,Siquirres,Germania,Huetar Atlántica
+7,703,70305,Limón,Siquirres,Cairo,Huetar Atlántica
+7,703,70306,Limón,Siquirres,Alegría,Huetar Atlántica
+7,704,70401,Limón,Talamanca,Bratsi,Huetar Atlántica
+7,704,70402,Limón,Talamanca,Sixaola,Huetar Atlántica
+7,704,70403,Limón,Talamanca,Cahuita,Huetar Atlántica
+7,704,70404,Limón,Talamanca,Telire,Huetar Atlántica
+7,705,70501,Limón,Matina,Matina,Huetar Atlántica
+7,705,70502,Limón,Matina,Battan,Huetar Atlántica
+7,705,70503,Limón,Matina,Carrandi,Huetar Atlántica
+7,706,70601,Limón,Guácimo,Guácimo,Huetar Atlántica
+7,706,70602,Limón,Guácimo,Mercedes,Huetar Atlántica
+7,706,70603,Limón,Guácimo,Pocora,Huetar Atlántica
+7,706,70604,Limón,Guácimo,Río Jiménez,Huetar Atlántica
+7,706,70605,Limón,Guácimo,Duacari,Huetar Atlántica
