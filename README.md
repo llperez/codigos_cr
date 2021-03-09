@@ -8,7 +8,7 @@ mismos archivos, pero en una codificación sin tildes ni eñes.
 ## Códigos postales (``postal.csv``)
 
 Códigos de cada distrito en Costa Rica, de acuerdo a la clasificación
-utilizada por Correos de Costa Rica. En el directorio ``postal_full_inec/`` se encuentra una 
+utilizada por Correos de Costa Rica. En el directorio ``postal_full/`` se encuentra una 
 versión de esta nomenclatura dividido en varios archivos y con información de las regiones
 socioeconómicas utilizadas por el INEC para cada distrito. 
 
@@ -34,3 +34,12 @@ de Costa Rica es mucho más consistente con el ordenamiento oficial que los dist
  caso, la provincia es ``CONSULADO``, el cantón es el país
  correspondiente, y el distrito es la ciudad en la cual se encuentra
  dicho consulado.
+
+## Descargo de responsabilidad
+
+Los datos compilados en este repositorio fueron obtenidos de fuentes
+gubernamentales de acceso público libre. Esta compilación es liberada
+bajo una licencia de contenido libre. El autor de este repositorio no
+se hace responsable por cualquier tipo de inconsistencias e
+inexactitudes en los datos, ni por cualquier tipo de daño o perjuicio
+originado de la aplicación de dichos datos.
